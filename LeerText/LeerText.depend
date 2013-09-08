@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1378601072 source:c:\users\oscar\documents\universidad\cuarto\control por computadora\leertext\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
